@@ -1,2 +1,2 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Apple Generative AI](https://www.cnet.com/tech/mobile/what-is-apple-intelligence-everything-to-know-about-iphone-16-ai-features/)
